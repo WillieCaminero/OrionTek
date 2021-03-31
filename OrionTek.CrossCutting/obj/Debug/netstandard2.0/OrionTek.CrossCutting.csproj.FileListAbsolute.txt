@@ -1,0 +1,16 @@
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.Application.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.Domain.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\obj\Debug\netstandard2.0\OrionTek.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\obj\Debug\netstandard2.0\OrionTek.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\obj\Debug\netstandard2.0\OrionTek.CrossCutting.AssemblyInfo.cs
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.CrossCutting.deps.json
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.CrossCutting.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.CrossCutting.pdb
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.Application.pdb
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.pdb
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\bin\Debug\netstandard2.0\OrionTek.Domain.pdb
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\obj\Debug\netstandard2.0\OrionTek.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\obj\Debug\netstandard2.0\OrionTek.CrossCutting.csproj.CopyComplete
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\obj\Debug\netstandard2.0\OrionTek.CrossCutting.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.CrossCutting\obj\Debug\netstandard2.0\OrionTek.CrossCutting.pdb

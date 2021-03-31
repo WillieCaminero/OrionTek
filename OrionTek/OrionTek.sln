@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionTek", "OrionTek.csproj", "{2CDABDAF-042D-49A9-9739-8AE701D5F929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionTek.Domain", "..\OrionTek.Domain\OrionTek.Domain.csproj", "{15103D6A-1329-4157-AC7A-C510040EAADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionTek.Application", "..\OrionTek.Application\OrionTek.Application.csproj", "{3B551654-26F5-4B08-9A29-992817F06C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionTek.CrossCutting", "..\OrionTek.CrossCutting\OrionTek.CrossCutting.csproj", "{00A76531-8646-4237-B457-24955E64E21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionTek.Infrastructure.Repository", "..\OrionTek.Infrastructure.Repository\OrionTek.Infrastructure.Repository.csproj", "{EE167B47-E058-4FD4-96FD-62225DDF5416}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OrionTek.Database", "..\OrionTek.Database\OrionTek.Database.sqlproj", "{E7115997-28EF-4428-B454-054F36E2EF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDABDAF-042D-49A9-9739-8AE701D5F929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDABDAF-042D-49A9-9739-8AE701D5F929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDABDAF-042D-49A9-9739-8AE701D5F929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDABDAF-042D-49A9-9739-8AE701D5F929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15103D6A-1329-4157-AC7A-C510040EAADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15103D6A-1329-4157-AC7A-C510040EAADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15103D6A-1329-4157-AC7A-C510040EAADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15103D6A-1329-4157-AC7A-C510040EAADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B551654-26F5-4B08-9A29-992817F06C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B551654-26F5-4B08-9A29-992817F06C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B551654-26F5-4B08-9A29-992817F06C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B551654-26F5-4B08-9A29-992817F06C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A76531-8646-4237-B457-24955E64E21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A76531-8646-4237-B457-24955E64E21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A76531-8646-4237-B457-24955E64E21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A76531-8646-4237-B457-24955E64E21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE167B47-E058-4FD4-96FD-62225DDF5416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE167B47-E058-4FD4-96FD-62225DDF5416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE167B47-E058-4FD4-96FD-62225DDF5416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE167B47-E058-4FD4-96FD-62225DDF5416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7115997-28EF-4428-B454-054F36E2EF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7115997-28EF-4428-B454-054F36E2EF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7115997-28EF-4428-B454-054F36E2EF04}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E7115997-28EF-4428-B454-054F36E2EF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7115997-28EF-4428-B454-054F36E2EF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7115997-28EF-4428-B454-054F36E2EF04}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B58CBA2-6C6C-4C1D-86BD-92E0716C8CF9}
+	EndGlobalSection
+EndGlobal

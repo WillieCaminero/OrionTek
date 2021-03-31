@@ -1,0 +1,8 @@
+C:\Users\Willie Caminero\source\repos\OrionTek.Domain\bin\Debug\netstandard2.0\OrionTek.Domain.deps.json
+C:\Users\Willie Caminero\source\repos\OrionTek.Domain\bin\Debug\netstandard2.0\OrionTek.Domain.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.Domain\bin\Debug\netstandard2.0\OrionTek.Domain.pdb
+C:\Users\Willie Caminero\source\repos\OrionTek.Domain\obj\Debug\netstandard2.0\OrionTek.Domain.AssemblyInfoInputs.cache
+C:\Users\Willie Caminero\source\repos\OrionTek.Domain\obj\Debug\netstandard2.0\OrionTek.Domain.AssemblyInfo.cs
+C:\Users\Willie Caminero\source\repos\OrionTek.Domain\obj\Debug\netstandard2.0\OrionTek.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willie Caminero\source\repos\OrionTek.Domain\obj\Debug\netstandard2.0\OrionTek.Domain.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.Domain\obj\Debug\netstandard2.0\OrionTek.Domain.pdb

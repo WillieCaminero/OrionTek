@@ -1,0 +1,17 @@
+﻿IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[SP_OBTENER_EMPRESA_POR_ID]') AND type in (N'P', N'PC'))
+BEGIN	
+	DROP PROCEDURE [dbo].[SP_OBTENER_EMPRESA_POR_ID]
+END
+
+GO
+
+CREATE PROCEDURE [dbo].[SP_OBTENER_EMPRESA_POR_ID]
+(	
+	@Id		INT
+)
+AS
+BEGIN
+	SELECT Id, Empresa
+	FROM Empresas
+	WHERE Id = @Id;
+END;

@@ -1,0 +1,12 @@
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\bin\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.deps.json
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\bin\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\bin\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.pdb
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\bin\Debug\netstandard2.0\OrionTek.Domain.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\bin\Debug\netstandard2.0\OrionTek.Domain.pdb
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\obj\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.csprojAssemblyReference.cache
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\obj\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\obj\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\obj\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\obj\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\obj\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.dll
+C:\Users\Willie Caminero\source\repos\OrionTek.Infrastructure.Repository\obj\Debug\netstandard2.0\OrionTek.Infrastructure.Repository.pdb
